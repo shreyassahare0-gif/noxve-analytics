@@ -1,0 +1,524 @@
+customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,segment
+1,364,1,2298.0,1,1,2,4,Needs Attention
+2,364,1,2717.6,1,1,3,5,Needs Attention
+3,363,1,3797.0,1,1,3,5,Needs Attention
+4,362,1,1088.2,1,1,1,3,Needs Attention
+5,358,1,1599.0,1,1,2,4,Needs Attention
+7,105,2,4351.45,3,4,4,11,Champions
+8,274,1,5128.2,1,1,4,6,Needs Attention
+10,53,3,3875.2,4,4,3,11,Champions
+12,353,1,4138.2,1,1,4,6,Needs Attention
+13,353,1,1998.0,1,1,2,4,Needs Attention
+14,348,1,1128.1,1,1,1,3,Needs Attention
+15,346,1,2299.0,1,1,3,5,Needs Attention
+18,186,3,6944.2,2,4,4,10,Champions
+19,341,1,2498.0,1,1,3,5,Needs Attention
+20,340,1,4318.2,1,1,4,6,Needs Attention
+21,35,6,16007.0,4,4,4,12,Champions
+22,322,2,1977.1,1,4,2,7,At Risk (was loyal)
+23,336,1,1248.0,1,1,1,3,Needs Attention
+25,331,1,1598.4,1,1,2,4,Needs Attention
+27,330,1,4048.2,1,1,4,6,Needs Attention
+28,151,2,5277.1,2,4,4,10,Champions
+29,95,2,5497.0,3,4,4,11,Champions
+30,270,2,2452.15,1,4,3,8,Loyal Customers
+31,327,1,5697.0,1,1,4,6,Needs Attention
+32,325,1,1979.1,1,1,2,4,Needs Attention
+33,316,2,2247.0,1,4,2,7,At Risk (was loyal)
+34,272,1,1898.0,1,1,2,4,Needs Attention
+35,325,1,1488.1,1,1,2,4,Needs Attention
+36,9,3,7852.7,4,4,4,12,Champions
+37,240,2,7504.2,1,4,4,9,Loyal Customers
+38,21,2,5145.45,4,4,4,12,Champions
+39,322,1,1079.1,1,1,1,3,Needs Attention
+40,322,1,678.1,1,1,1,3,Needs Attention
+41,317,2,8795.0,1,4,4,9,Loyal Customers
+42,11,2,1696.1,4,4,2,10,Champions
+43,128,1,1008.2,3,1,1,5,New / Recent
+45,320,1,1798.2,1,1,2,4,Needs Attention
+47,103,2,2846.2,3,4,3,10,Champions
+48,319,1,4048.2,1,1,4,6,Needs Attention
+49,51,1,1998.0,4,1,2,7,New / Recent
+50,318,1,999.0,1,1,1,3,Needs Attention
+51,318,1,2398.4,1,1,3,5,Needs Attention
+52,28,3,3976.3,4,4,3,11,Champions
+53,36,1,2299.0,4,1,3,8,Loyal Customers
+54,247,2,2318.4,1,4,3,8,Loyal Customers
+55,291,2,4196.15,1,4,4,9,Loyal Customers
+57,5,4,10534.2,4,4,4,12,Champions
+58,191,2,6795.0,2,4,4,10,Champions
+59,314,1,999.0,1,1,1,3,Needs Attention
+60,286,2,3196.3,1,4,3,8,Loyal Customers
+61,313,1,1499.0,1,1,2,4,Needs Attention
+62,313,1,1499.0,1,1,2,4,Needs Attention
+63,66,2,2347.0,3,4,3,10,Champions
+65,311,1,3198.0,1,1,3,5,Needs Attention
+66,298,2,7495.0,1,4,4,9,Loyal Customers
+68,248,2,2096.0,1,4,2,7,At Risk (was loyal)
+69,308,1,1798.2,1,1,2,4,Needs Attention
+70,308,1,2198.0,1,1,2,4,Needs Attention
+71,308,1,1348.0,1,1,2,4,Needs Attention
+74,304,1,748.0,1,1,1,3,Needs Attention
+76,304,1,1048.0,1,1,1,3,Needs Attention
+77,131,1,2398.0,3,1,3,7,New / Recent
+78,2,2,5816.1,4,4,4,12,Champions
+79,275,1,948.1,1,1,1,3,Needs Attention
+80,281,2,4147.2,1,4,4,9,Loyal Customers
+81,302,1,2716.8,1,1,3,5,Needs Attention
+82,199,2,2897.1,2,4,3,9,Loyal Customers
+83,34,2,7096.0,4,4,4,12,Champions
+84,54,3,7492.7,4,4,4,12,Champions
+86,299,1,2098.0,1,1,2,4,Needs Attention
+88,297,1,1798.2,1,1,2,4,Needs Attention
+91,268,3,10195.15,1,4,4,9,Loyal Customers
+92,14,2,3816.3999999999996,4,4,3,11,Champions
+93,296,1,3149.1,1,1,3,5,Needs Attention
+94,295,1,3298.0,1,1,3,5,Needs Attention
+95,61,2,3446.1,3,4,3,10,Champions
+96,66,2,2996.5,3,4,3,10,Champions
+97,294,1,2799.2,1,1,3,5,Needs Attention
+98,294,1,1398.1,1,1,2,4,Needs Attention
+99,195,2,3997.0,2,4,3,9,Loyal Customers
+100,293,1,1048.0,1,1,1,3,Needs Attention
+103,131,2,2656.55,3,4,3,10,Champions
+104,119,2,3198.0,3,4,3,10,Champions
+105,291,1,2717.45,1,1,3,5,Needs Attention
+107,290,1,4138.2,1,1,4,6,Needs Attention
+108,276,2,1527.25,1,4,2,7,At Risk (was loyal)
+110,289,1,1218.1,1,1,1,3,Needs Attention
+111,288,1,1518.4,1,1,2,4,Needs Attention
+112,18,2,1682.15,4,4,2,10,Champions
+114,259,2,7941.3,1,4,4,9,Loyal Customers
+115,286,1,899.1,1,1,1,3,Needs Attention
+116,284,1,1148.0,1,1,1,3,Needs Attention
+119,283,1,3958.2,1,1,3,5,Needs Attention
+120,283,1,4197.0,1,1,4,6,Needs Attention
+121,283,1,1698.0,1,1,2,4,Needs Attention
+122,283,1,1048.0,1,1,1,3,Needs Attention
+124,281,1,1349.1,1,1,2,4,Needs Attention
+125,279,1,1979.1,1,1,2,4,Needs Attention
+126,278,1,4498.0,1,1,4,6,Needs Attention
+127,132,2,4745.2,2,4,4,10,Champions
+128,278,1,1499.0,1,1,2,4,Needs Attention
+129,275,1,594.15,1,1,1,3,Needs Attention
+131,275,1,2598.0,1,1,3,5,Needs Attention
+132,106,2,8405.8,3,4,4,11,Champions
+133,273,1,3958.2,1,1,3,5,Needs Attention
+135,73,3,5696.4,3,4,4,11,Champions
+136,270,1,3297.0,1,1,3,5,Needs Attention
+137,270,2,4197.0,1,4,4,9,Loyal Customers
+138,269,1,1599.0,1,1,2,4,Needs Attention
+139,269,1,1348.0,1,1,2,4,Needs Attention
+140,269,1,2698.2,1,1,3,5,Needs Attention
+141,237,1,1488.1,1,1,2,4,Needs Attention
+142,206,2,5096.0,2,4,4,10,Champions
+143,227,2,3286.2999999999997,2,4,3,9,Loyal Customers
+144,266,1,1499.0,1,1,2,4,Needs Attention
+146,265,1,3149.1,1,1,3,5,Needs Attention
+147,40,2,5136.4,4,4,4,12,Champions
+149,262,1,3149.1,1,1,3,5,Needs Attention
+150,262,1,848.2,1,1,1,3,Needs Attention
+151,178,2,5644.7,2,4,4,10,Champions
+152,261,1,3499.0,1,1,3,5,Needs Attention
+154,165,2,5897.0,2,4,4,10,Champions
+156,65,1,6997.0,3,1,4,8,Loyal Customers
+157,204,2,5626.2,2,4,4,10,Champions
+158,258,1,2797.6,1,1,3,5,Needs Attention
+159,165,2,7315.6,2,4,4,10,Champions
+160,257,1,4796.0,1,1,4,6,Needs Attention
+161,257,1,2898.0,1,1,3,5,Needs Attention
+162,257,1,2248.2,1,1,2,4,Needs Attention
+163,256,1,4588.2,1,1,4,6,Needs Attention
+164,206,3,4465.2,2,4,4,10,Champions
+166,5,2,4267.1,4,4,4,12,Champions
+167,255,1,1048.0,1,1,1,3,Needs Attention
+168,255,1,2498.0,1,1,3,5,Needs Attention
+169,255,1,5487.3,1,1,4,6,Needs Attention
+170,255,1,3499.0,1,1,3,5,Needs Attention
+171,210,2,4381.35,2,4,4,10,Champions
+173,254,1,1128.1,1,1,1,3,Needs Attention
+175,254,1,1048.0,1,1,1,3,Needs Attention
+176,136,1,3499.0,2,1,3,6,Needs Attention
+177,233,2,3545.5,1,4,3,8,Loyal Customers
+179,252,1,2199.0,1,1,2,4,Needs Attention
+180,252,1,3097.0,1,1,3,5,Needs Attention
+181,251,1,3597.0,1,1,3,5,Needs Attention
+182,250,1,999.0,1,1,1,3,Needs Attention
+183,250,1,7197.3,1,1,4,6,Needs Attention
+184,250,1,2298.0,1,1,2,4,Needs Attention
+186,6,2,8497.2,4,4,4,12,Champions
+187,248,1,1128.1,1,1,1,3,Needs Attention
+189,1,2,3597.0,4,4,3,11,Champions
+190,117,2,5195.15,3,4,4,11,Champions
+192,239,2,2446.6000000000004,1,4,3,8,Loyal Customers
+193,177,2,4996.3,2,4,4,10,Champions
+194,247,1,948.1,1,1,1,3,Needs Attention
+195,220,1,2598.0,2,1,3,6,Needs Attention
+197,246,1,948.1,1,1,1,3,Needs Attention
+198,245,1,1698.3,1,1,2,4,Needs Attention
+199,245,1,3998.4,1,1,3,5,Needs Attention
+200,245,1,3499.0,1,1,3,5,Needs Attention
+201,244,1,3698.0,1,1,3,5,Needs Attention
+202,36,3,6389.5,4,4,4,12,Champions
+203,128,1,5397.0,3,1,4,8,Loyal Customers
+204,243,1,2069.1,1,1,2,4,Needs Attention
+205,243,1,1048.0,1,1,1,3,Needs Attention
+206,117,1,1048.0,3,1,1,5,New / Recent
+208,242,1,989.1,1,1,1,3,Needs Attention
+209,242,1,748.0,1,1,1,3,Needs Attention
+210,242,1,2098.0,1,1,2,4,Needs Attention
+212,241,1,1323.15,1,1,2,4,Needs Attention
+213,21,3,2605.35,4,4,3,11,Champions
+214,207,2,3546.0,2,4,3,9,Loyal Customers
+215,86,2,7496.0,3,4,4,11,Champions
+216,239,1,1048.0,1,1,1,3,Needs Attention
+217,159,2,1956.2,2,4,2,8,Loyal Customers
+218,179,2,3256.6,2,4,3,9,Loyal Customers
+221,238,1,1348.0,1,1,2,4,Needs Attention
+223,237,1,1169.1,1,1,1,3,Needs Attention
+224,237,1,1299.0,1,1,1,3,Needs Attention
+225,235,1,4228.2,1,1,4,6,Needs Attention
+227,234,1,2299.0,1,1,3,5,Needs Attention
+228,233,1,1348.0,1,1,2,4,Needs Attention
+229,233,1,948.1,1,1,1,3,Needs Attention
+231,232,1,678.1,1,1,1,3,Needs Attention
+233,231,1,2598.0,1,1,3,5,Needs Attention
+234,231,1,1998.4,1,1,2,4,Needs Attention
+235,230,1,2878.2,1,1,3,5,Needs Attention
+236,229,1,1169.1,1,1,1,3,Needs Attention
+237,227,1,1869.15,2,1,2,5,Needs Attention
+238,227,1,2299.0,2,1,3,6,Needs Attention
+239,226,1,1348.0,2,1,2,5,Needs Attention
+241,31,2,4187.2,4,4,4,12,Champions
+242,226,1,1869.15,2,1,2,5,Needs Attention
+243,226,1,1048.0,2,1,1,4,Needs Attention
+244,226,1,5896.0,2,1,4,7,Needs Attention
+245,225,1,1398.1,2,1,2,5,Needs Attention
+246,224,1,849.15,2,1,1,4,Needs Attention
+248,224,1,1328.2,2,1,2,5,Needs Attention
+249,223,1,1598.4,2,2,2,6,Needs Attention
+250,223,1,2198.0,2,2,2,6,Needs Attention
+251,223,1,1048.0,2,2,1,5,Needs Attention
+253,220,1,4498.0,2,2,4,8,Loyal Customers
+254,149,2,5876.5,2,4,4,10,Champions
+256,217,1,2158.2,2,2,2,6,Needs Attention
+257,115,2,6055.4,3,4,4,11,Champions
+258,16,2,9643.2,4,4,4,12,Champions
+259,82,1,948.1,3,2,1,6,Needs Attention
+260,215,1,3758.4,2,2,3,7,Needs Attention
+261,215,1,1398.1,2,2,2,6,Needs Attention
+262,141,1,2299.0,2,2,3,7,Needs Attention
+263,214,1,4396.0,2,2,4,8,Loyal Customers
+265,214,1,1978.2,2,2,2,6,Needs Attention
+266,48,1,799.2,4,2,1,7,Needs Attention
+267,213,1,1048.0,2,2,1,5,Needs Attention
+268,213,1,948.1,2,2,1,5,Needs Attention
+269,213,1,3418.2,2,2,3,7,Needs Attention
+270,213,1,1348.0,2,2,2,6,Needs Attention
+273,11,3,8083.2,4,4,4,12,Champions
+274,59,1,1868.3,3,2,2,7,Needs Attention
+276,209,1,999.0,2,2,1,5,Needs Attention
+277,208,1,748.0,2,2,1,5,Needs Attention
+278,206,1,1918.4,2,2,2,6,Needs Attention
+279,206,1,1274.15,2,2,1,5,Needs Attention
+280,206,1,1499.0,2,2,2,6,Needs Attention
+281,10,3,5155.4,4,4,4,12,Champions
+282,206,1,898.15,2,2,1,5,Needs Attention
+283,204,1,1248.0,2,2,1,5,Needs Attention
+284,204,1,1048.0,2,2,1,5,Needs Attention
+285,202,1,2997.0,2,2,3,7,Needs Attention
+287,202,1,2299.0,2,2,3,7,Needs Attention
+289,147,2,7894.0,2,4,4,10,Champions
+290,44,1,1048.0,4,2,1,7,Needs Attention
+291,199,1,1148.0,2,2,1,5,Needs Attention
+292,199,1,1978.2,2,2,2,6,Needs Attention
+293,199,1,1488.1,2,2,2,6,Needs Attention
+295,196,1,2799.2,2,2,3,7,Needs Attention
+296,196,1,6835.5,2,2,4,8,Loyal Customers
+297,22,2,5267.1,4,4,4,12,Champions
+300,91,1,989.1,3,2,1,6,Needs Attention
+301,189,1,1348.0,2,2,2,6,Needs Attention
+304,188,1,1488.1,2,2,2,6,Needs Attention
+305,188,1,1998.0,2,2,2,6,Needs Attention
+306,188,1,1348.0,2,2,2,6,Needs Attention
+307,187,1,1048.0,2,2,1,5,Needs Attention
+308,187,1,3398.0,2,2,3,7,Needs Attention
+310,187,1,2298.0,2,2,2,6,Needs Attention
+311,186,1,3697.0,2,2,3,7,Needs Attention
+312,186,1,1998.0,2,2,2,6,Needs Attention
+313,185,1,2878.2,2,2,3,7,Needs Attention
+314,185,1,1048.0,2,2,1,5,Needs Attention
+316,183,1,3956.4,2,2,3,7,Needs Attention
+317,23,2,5036.0,4,4,4,12,Champions
+318,182,1,1998.0,2,2,2,6,Needs Attention
+320,181,1,5517.6,2,2,4,8,Loyal Customers
+321,180,1,4317.6,2,2,4,8,Loyal Customers
+322,180,1,4137.3,2,2,4,8,Loyal Customers
+324,178,1,4197.0,2,2,4,8,Loyal Customers
+325,178,1,5798.0,2,2,4,8,Loyal Customers
+326,176,1,1798.2,2,2,2,6,Needs Attention
+329,176,1,1048.0,2,2,1,5,Needs Attention
+330,8,2,6326.2,4,4,4,12,Champions
+331,66,3,6004.15,3,4,4,11,Champions
+332,175,1,2068.2,2,2,2,6,Needs Attention
+334,172,1,948.1,2,2,1,5,Needs Attention
+335,172,1,3398.0,2,2,3,7,Needs Attention
+336,171,1,3697.0,2,2,3,7,Needs Attention
+337,171,1,2158.2,2,2,2,6,Needs Attention
+338,170,1,3398.0,2,2,3,7,Needs Attention
+339,170,1,4672.45,2,2,4,8,Loyal Customers
+340,169,1,1499.0,2,2,2,6,Needs Attention
+341,169,1,1099.0,2,2,1,5,Needs Attention
+343,168,1,3598.0,2,2,3,7,Needs Attention
+344,168,1,4227.3,2,2,4,8,Loyal Customers
+345,167,1,6697.0,2,2,4,8,Loyal Customers
+346,167,1,1048.0,2,2,1,5,Needs Attention
+347,167,1,1698.0,2,2,2,6,Needs Attention
+348,96,2,2946.0,3,4,3,10,Champions
+349,165,1,3198.0,2,2,3,7,Needs Attention
+350,161,1,898.15,2,2,1,5,Needs Attention
+351,162,1,3499.0,2,2,3,7,Needs Attention
+352,159,1,6496.0,2,2,4,8,Loyal Customers
+353,159,1,3149.1,2,2,3,7,Needs Attention
+355,54,3,4625.2,4,4,4,12,Champions
+356,155,1,1148.0,2,2,1,5,Needs Attention
+357,156,1,999.0,2,2,1,5,Needs Attention
+358,156,1,948.1,2,2,1,5,Needs Attention
+359,155,1,948.1,2,2,1,5,Needs Attention
+360,155,1,999.0,2,2,1,5,Needs Attention
+361,155,1,4197.0,2,2,4,8,Loyal Customers
+362,154,1,2697.0,2,2,3,7,Needs Attention
+363,154,1,2878.2,2,2,3,7,Needs Attention
+364,154,1,4076.6,2,2,4,8,Loyal Customers
+365,152,1,2607.3,2,2,3,7,Needs Attention
+366,152,1,1998.0,2,2,2,6,Needs Attention
+368,45,2,3466.15,4,4,3,11,Champions
+369,59,3,7296.1,3,4,4,11,Champions
+370,150,1,848.2,2,2,1,5,Needs Attention
+371,150,1,2398.0,2,2,3,7,Needs Attention
+372,148,1,848.2,2,2,1,5,Needs Attention
+373,146,1,4047.3,2,2,4,8,Loyal Customers
+376,144,1,3198.0,2,2,3,7,Needs Attention
+377,89,2,3987.2,3,4,3,10,Champions
+378,143,1,999.0,2,2,1,5,Needs Attention
+380,142,1,4498.0,2,2,4,8,Loyal Customers
+381,69,1,2098.0,3,2,2,7,Needs Attention
+382,142,1,2378.3,2,2,3,7,Needs Attention
+383,142,1,2698.0,2,2,3,7,Needs Attention
+384,52,2,4456.2,4,4,4,12,Champions
+385,141,1,1048.0,2,2,1,5,Needs Attention
+386,141,1,2798.0,2,2,3,7,Needs Attention
+387,141,1,1199.0,2,2,1,5,Needs Attention
+388,138,1,3197.0,2,2,3,7,Needs Attention
+389,138,1,748.0,2,2,1,5,Needs Attention
+391,138,1,1698.0,2,2,2,6,Needs Attention
+392,137,1,3297.0,2,2,3,7,Needs Attention
+395,133,1,3499.0,2,2,3,7,Needs Attention
+396,132,1,1698.0,2,2,2,6,Needs Attention
+397,132,1,948.1,2,2,1,5,Needs Attention
+399,131,1,1528.2,3,2,2,7,Needs Attention
+401,118,2,8594.0,3,4,4,11,Champions
+402,63,2,4196.4,3,4,4,11,Champions
+403,130,1,1128.1,3,2,1,6,Needs Attention
+404,129,1,1199.0,3,2,1,6,Needs Attention
+405,9,2,4476.2,4,4,4,12,Champions
+406,126,1,2498.0,3,2,3,8,Loyal Customers
+407,126,1,2198.0,3,2,2,7,Needs Attention
+408,69,1,1447.0,3,2,2,7,Needs Attention
+409,49,1,748.0,4,2,1,7,Needs Attention
+410,124,1,1499.0,3,2,2,7,Needs Attention
+412,13,2,5948.299999999999,4,4,4,12,Champions
+414,121,1,1048.0,3,2,1,6,Needs Attention
+415,1,2,5246.0,4,4,4,12,Champions
+416,121,1,1128.1,3,2,1,6,Needs Attention
+417,120,1,1048.0,3,2,1,6,Needs Attention
+418,120,1,2293.3,3,2,2,7,Needs Attention
+419,117,1,4398.0,3,2,4,9,Loyal Customers
+421,117,1,1998.0,3,2,2,7,Needs Attention
+422,117,1,3499.0,3,2,3,8,Loyal Customers
+423,116,1,1048.0,3,2,1,6,Needs Attention
+424,116,1,1248.0,3,2,1,6,Needs Attention
+425,116,1,948.1,3,2,1,6,Needs Attention
+426,116,1,699.0,3,2,1,6,Needs Attention
+427,115,1,2597.0,3,2,3,8,Loyal Customers
+429,114,1,948.1,3,2,1,6,Needs Attention
+430,114,1,1348.0,3,2,2,7,Needs Attention
+431,53,2,9273.4,4,4,4,12,Champions
+432,114,1,4197.0,3,2,4,9,Loyal Customers
+434,113,1,1898.0,3,2,2,7,Needs Attention
+435,113,1,3097.0,3,2,3,8,Loyal Customers
+436,112,1,1499.0,3,2,2,7,Needs Attention
+437,29,2,5944.0,4,4,4,12,Champions
+439,61,2,4798.0,3,4,4,11,Champions
+440,110,1,3298.0,3,2,3,8,Loyal Customers
+441,109,1,4246.6,3,3,4,10,Champions
+442,51,2,4276.3,4,4,4,12,Champions
+443,108,1,678.1,3,3,1,7,Needs Attention
+444,107,1,2298.0,3,3,2,8,Loyal Customers
+445,107,1,3687.3,3,3,3,9,Loyal Customers
+446,106,1,1048.0,3,3,1,7,Needs Attention
+447,58,1,1248.0,4,3,1,8,Loyal Customers
+448,106,1,1153.15,3,3,1,7,Needs Attention
+449,103,1,1048.0,3,3,1,7,Needs Attention
+450,23,1,1348.0,4,3,2,9,Loyal Customers
+451,100,1,948.1,3,3,1,7,Needs Attention
+452,100,1,1598.4,3,3,2,8,Loyal Customers
+453,99,1,3499.0,3,3,3,9,Loyal Customers
+454,59,2,4796.8,3,4,4,11,Champions
+455,98,1,4598.0,3,3,4,10,Champions
+457,97,1,4797.0,3,3,4,10,Champions
+458,97,1,1048.0,3,3,1,7,Needs Attention
+459,97,1,1048.0,3,3,1,7,Needs Attention
+460,97,1,1398.1,3,3,2,8,Loyal Customers
+461,96,1,1128.1,3,3,1,7,Needs Attention
+462,59,2,9294.0,3,4,4,11,Champions
+463,37,2,5887.4,4,4,4,12,Champions
+464,79,2,5597.0,3,4,4,11,Champions
+465,94,1,1048.0,3,3,1,7,Needs Attention
+466,93,1,1798.0,3,3,2,8,Loyal Customers
+467,93,1,1048.0,3,3,1,7,Needs Attention
+468,93,1,1599.0,3,3,2,8,Loyal Customers
+469,93,1,899.1,3,3,1,7,Needs Attention
+470,91,1,1048.0,3,3,1,7,Needs Attention
+471,90,1,1953.3,3,3,2,8,Loyal Customers
+472,90,1,2299.0,3,3,3,9,Loyal Customers
+473,80,1,4947.3,3,3,4,10,Champions
+474,89,1,3298.0,3,3,3,9,Loyal Customers
+475,89,1,2973.3,3,3,3,9,Loyal Customers
+476,88,1,2098.0,3,3,2,8,Loyal Customers
+477,86,1,2199.0,3,3,2,8,Loyal Customers
+478,86,1,2199.0,3,3,2,8,Loyal Customers
+480,84,1,1099.0,3,3,1,7,Needs Attention
+481,83,1,3499.0,3,3,3,9,Loyal Customers
+482,83,1,4496.4,3,3,4,10,Champions
+483,82,1,1447.0,3,3,2,8,Loyal Customers
+484,81,1,2398.0,3,3,3,9,Loyal Customers
+485,81,1,1248.0,3,3,1,7,Needs Attention
+486,80,1,1869.15,3,3,2,8,Loyal Customers
+487,80,1,2967.3,3,3,3,9,Loyal Customers
+489,79,1,9396.0,3,3,4,10,Champions
+490,47,2,3447.0,4,4,3,11,Champions
+492,77,1,3499.0,3,3,3,9,Loyal Customers
+494,77,1,2898.0,3,3,3,9,Loyal Customers
+496,75,1,1499.0,3,3,2,8,Loyal Customers
+497,75,1,9686.6,3,3,4,10,Champions
+499,75,1,2069.1,3,3,2,8,Loyal Customers
+500,74,1,2997.0,3,3,3,9,Loyal Customers
+502,73,1,1798.2,3,3,2,8,Loyal Customers
+503,73,1,1048.0,3,3,1,7,Needs Attention
+504,72,1,1869.15,3,3,2,8,Loyal Customers
+505,72,1,2198.0,3,3,2,8,Loyal Customers
+506,72,1,1954.15,3,3,2,8,Loyal Customers
+507,71,1,4397.0,3,3,4,10,Champions
+508,70,1,1598.4,3,3,2,8,Loyal Customers
+509,70,1,1048.0,3,3,1,7,Needs Attention
+510,70,1,1398.1,3,3,2,8,Loyal Customers
+512,69,1,2069.1,3,3,2,8,Loyal Customers
+513,69,1,1447.0,3,3,2,8,Loyal Customers
+515,69,1,2198.0,3,3,2,8,Loyal Customers
+516,69,1,5181.6,3,3,4,10,Champions
+518,67,1,1998.0,3,3,2,8,Loyal Customers
+519,66,1,5597.0,3,3,4,10,Champions
+520,67,1,2397.6,3,3,3,9,Loyal Customers
+521,66,1,6496.0,3,3,4,10,Champions
+522,66,1,1248.0,3,3,1,7,Needs Attention
+523,65,1,1148.0,3,3,1,7,Needs Attention
+524,65,1,2697.0,3,3,3,9,Loyal Customers
+525,31,2,9230.65,4,4,4,12,Champions
+526,65,1,5397.0,3,3,4,10,Champions
+527,65,1,1248.0,3,3,1,7,Needs Attention
+530,5,2,2447.1,4,4,3,11,Champions
+532,9,2,6721.3,4,4,4,12,Champions
+533,63,1,4318.2,3,3,4,10,Champions
+534,63,1,4331.6,3,3,4,10,Champions
+535,62,1,2199.0,3,3,2,8,Loyal Customers
+537,61,1,1169.1,3,3,1,7,Needs Attention
+539,61,1,849.15,3,3,1,7,Needs Attention
+540,61,1,1048.0,3,3,1,7,Needs Attention
+541,59,1,1499.0,3,3,2,8,Loyal Customers
+542,59,1,1678.4,3,3,2,8,Loyal Customers
+543,58,1,1048.0,4,3,1,8,Loyal Customers
+546,56,1,1798.2,4,3,2,9,Loyal Customers
+548,55,1,3498.0,4,3,3,10,Champions
+549,55,1,1979.1,4,3,2,9,Loyal Customers
+550,54,1,3499.0,4,3,3,10,Champions
+551,53,1,4407.3,4,3,4,11,Champions
+552,54,1,4496.0,4,3,4,11,Champions
+553,53,1,1148.0,4,3,1,8,Loyal Customers
+554,53,1,2378.3,4,3,3,10,Champions
+556,52,1,2957.6,4,3,3,10,Champions
+557,52,1,1398.1,4,3,2,9,Loyal Customers
+558,52,1,1199.0,4,3,1,8,Loyal Customers
+559,50,1,1759.2,4,3,2,9,Loyal Customers
+561,51,1,1698.3,4,3,2,9,Loyal Customers
+562,50,1,999.0,4,3,1,8,Loyal Customers
+563,49,1,983.15,4,3,1,8,Loyal Customers
+564,48,1,5037.3,4,3,4,11,Champions
+565,48,1,3499.0,4,3,3,10,Champions
+566,47,1,3597.6,4,3,3,10,Champions
+567,46,1,999.0,4,3,1,8,Loyal Customers
+568,46,1,748.0,4,3,1,8,Loyal Customers
+570,44,1,1783.3,4,3,2,9,Loyal Customers
+571,43,1,4637.6,4,3,4,11,Champions
+572,43,1,1499.0,4,3,2,9,Loyal Customers
+574,43,1,1048.0,4,3,1,8,Loyal Customers
+575,42,1,1048.0,4,3,1,8,Loyal Customers
+576,42,1,2878.2,4,3,3,10,Champions
+580,40,1,3499.0,4,3,3,10,Champions
+583,4,2,2298.0,4,4,2,10,Champions
+584,39,1,4997.0,4,3,4,11,Champions
+585,39,1,2998.0,4,3,3,10,Champions
+586,38,1,1148.0,4,3,1,8,Loyal Customers
+587,37,1,1348.0,4,3,2,9,Loyal Customers
+588,37,1,1048.0,4,3,1,8,Loyal Customers
+589,37,1,1499.0,4,3,2,9,Loyal Customers
+590,36,1,3298.0,4,3,3,10,Champions
+591,36,1,999.0,4,3,1,8,Loyal Customers
+592,35,1,1088.2,4,3,1,8,Loyal Customers
+593,35,1,3499.0,4,3,3,10,Champions
+594,34,1,2098.0,4,3,2,9,Loyal Customers
+595,34,1,2299.0,4,3,3,10,Champions
+596,32,1,4297.0,4,3,4,11,Champions
+597,31,1,5997.0,4,3,4,11,Champions
+598,29,1,999.0,4,3,1,8,Loyal Customers
+599,26,1,2199.0,4,3,2,9,Loyal Customers
+600,26,1,1048.0,4,3,1,8,Loyal Customers
+601,25,1,1199.0,4,3,1,8,Loyal Customers
+602,24,1,3778.2,4,3,3,10,Champions
+603,24,1,1199.2,4,3,1,8,Loyal Customers
+604,24,1,948.1,4,3,1,8,Loyal Customers
+605,23,1,1148.0,4,3,1,8,Loyal Customers
+606,21,1,1398.0,4,3,2,9,Loyal Customers
+607,22,1,2398.0,4,3,3,10,Champions
+608,22,1,4598.0,4,3,4,11,Champions
+609,22,1,799.2,4,4,1,9,Loyal Customers
+610,21,1,699.0,4,4,1,9,Loyal Customers
+611,21,1,3777.3,4,4,3,11,Champions
+612,21,1,1348.0,4,4,2,10,Champions
+616,19,1,2298.0,4,4,2,10,Champions
+618,17,1,1499.0,4,4,2,10,Champions
+620,17,1,7796.0,4,4,4,12,Champions
+621,16,1,1323.15,4,4,2,10,Champions
+622,16,1,4598.0,4,4,4,12,Champions
+623,1,2,5595.0,4,4,4,12,Champions
+624,15,1,999.0,4,4,1,9,Loyal Customers
+625,10,2,5495.0,4,4,4,12,Champions
+626,14,1,1048.0,4,4,1,9,Loyal Customers
+627,13,1,4498.0,4,4,4,12,Champions
+629,11,1,899.1,4,4,1,9,Loyal Customers
+630,10,1,1599.0,4,4,2,10,Champions
+631,10,1,1048.0,4,4,1,9,Loyal Customers
+632,9,1,3798.0,4,4,3,11,Champions
+633,9,1,3499.0,4,4,3,11,Champions
+634,8,1,2199.0,4,4,2,10,Champions
+635,8,1,2123.3,4,4,2,10,Champions
+636,7,1,2248.2,4,4,2,10,Champions
+637,7,1,3757.6,4,4,3,11,Champions
+638,7,1,4331.6,4,4,4,12,Champions
+639,6,1,898.15,4,4,1,9,Loyal Customers
+640,6,1,2638.4,4,4,3,11,Champions
+642,3,1,2098.0,4,4,2,10,Champions
+644,2,1,1128.1,4,4,1,9,Loyal Customers
+645,2,1,4637.6,4,4,4,12,Champions
+646,2,1,4317.3,4,4,4,12,Champions
+647,2,1,1299.0,4,4,1,9,Loyal Customers

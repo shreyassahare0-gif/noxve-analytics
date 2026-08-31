@@ -1,0 +1,649 @@
+customer_id,signup_date,city,acquisition_channel,age_group
+1,2025-09-02,Nagpur,Organic/Direct,18-22
+2,2025-09-02,Mumbai,Organic/Direct,18-22
+3,2025-09-03,Delhi,Referral,28-34
+4,2025-09-04,Nashik,Organic/Direct,28-34
+5,2025-09-08,Delhi,Instagram Ads,23-27
+6,2025-09-08,Nashik,Instagram Ads,23-27
+7,2025-09-09,Pune,Google Ads,18-22
+8,2025-09-10,Delhi,Organic/Direct,18-22
+9,2025-09-12,Mumbai,Instagram Ads,23-27
+10,2025-09-12,Lucknow,Organic/Direct,35+
+11,2025-09-12,Mumbai,Organic/Direct,28-34
+12,2025-09-13,Ahmedabad,Instagram Ads,18-22
+13,2025-09-13,Pune,Organic/Direct,28-34
+14,2025-09-18,Bengaluru,Organic/Direct,23-27
+15,2025-09-20,Bengaluru,Organic/Direct,23-27
+16,2025-09-21,Mumbai,Organic/Direct,23-27
+17,2025-09-21,Mumbai,Organic/Direct,23-27
+18,2025-09-24,Kolkata,Instagram Ads,23-27
+19,2025-09-25,Delhi,Organic/Direct,28-34
+20,2025-09-26,Bengaluru,Instagram Ads,18-22
+21,2025-09-26,Ahmedabad,Instagram Ads,18-22
+22,2025-09-28,Nagpur,Instagram Ads,23-27
+23,2025-09-29,Delhi,Instagram Ads,23-27
+24,2025-09-30,Hyderabad,Instagram Ads,18-22
+25,2025-10-05,Jaipur,Instagram Ads,28-34
+26,2025-10-06,Kolkata,Organic/Direct,23-27
+27,2025-10-06,Nagpur,Organic/Direct,23-27
+28,2025-10-08,Nashik,Instagram Ads,23-27
+29,2025-10-09,Mumbai,Influencer,23-27
+30,2025-10-09,Delhi,Instagram Ads,23-27
+31,2025-10-09,Nagpur,Instagram Ads,35+
+32,2025-10-11,Mumbai,Instagram Ads,23-27
+33,2025-10-11,Indore,Instagram Ads,18-22
+34,2025-10-11,Indore,Organic/Direct,23-27
+35,2025-10-11,Kolkata,Organic/Direct,18-22
+36,2025-10-11,Lucknow,Referral,18-22
+37,2025-10-12,Pune,Organic/Direct,28-34
+38,2025-10-12,Hyderabad,Instagram Ads,18-22
+39,2025-10-14,Lucknow,Influencer,18-22
+40,2025-10-14,Delhi,Organic/Direct,23-27
+41,2025-10-15,Pune,Organic/Direct,23-27
+42,2025-10-16,Bengaluru,Instagram Ads,23-27
+43,2025-10-16,Nagpur,Organic/Direct,23-27
+44,2025-10-16,Indore,Instagram Ads,35+
+45,2025-10-16,Bengaluru,Influencer,23-27
+46,2025-10-17,Pune,Referral,28-34
+47,2025-10-17,Lucknow,Organic/Direct,23-27
+48,2025-10-17,Delhi,Organic/Direct,23-27
+49,2025-10-18,Nashik,Organic/Direct,18-22
+50,2025-10-18,Lucknow,Instagram Ads,28-34
+51,2025-10-18,Mumbai,Influencer,18-22
+52,2025-10-18,Mumbai,Organic/Direct,23-27
+53,2025-10-19,Indore,Referral,18-22
+54,2025-10-21,Pune,Instagram Ads,35+
+55,2025-10-21,Bengaluru,Instagram Ads,23-27
+56,2025-10-21,Pune,Instagram Ads,23-27
+57,2025-10-22,Indore,Organic/Direct,23-27
+58,2025-10-22,Jaipur,Google Ads,18-22
+59,2025-10-22,Nagpur,Referral,28-34
+60,2025-10-23,Ahmedabad,Influencer,18-22
+61,2025-10-23,Lucknow,Instagram Ads,18-22
+62,2025-10-23,Pune,Influencer,23-27
+63,2025-10-23,Mumbai,Organic/Direct,23-27
+64,2025-10-24,Nagpur,Instagram Ads,18-22
+65,2025-10-25,Nagpur,Organic/Direct,28-34
+66,2025-10-26,Mumbai,Referral,35+
+67,2025-10-26,Nagpur,Organic/Direct,18-22
+68,2025-10-26,Delhi,Referral,18-22
+69,2025-10-28,Mumbai,Instagram Ads,18-22
+70,2025-10-28,Bengaluru,Referral,28-34
+71,2025-10-28,Lucknow,Google Ads,23-27
+72,2025-10-29,Nashik,Organic/Direct,23-27
+73,2025-10-30,Mumbai,Instagram Ads,18-22
+74,2025-11-01,Delhi,Instagram Ads,18-22
+75,2025-11-01,Kolkata,Influencer,23-27
+76,2025-11-01,Hyderabad,Instagram Ads,28-34
+77,2025-11-02,Mumbai,Referral,23-27
+78,2025-11-02,Nagpur,Influencer,35+
+79,2025-11-02,Ahmedabad,Organic/Direct,23-27
+80,2025-11-03,Hyderabad,Organic/Direct,23-27
+81,2025-11-03,Mumbai,Organic/Direct,18-22
+82,2025-11-04,Nagpur,Instagram Ads,23-27
+83,2025-11-04,Nagpur,Referral,18-22
+84,2025-11-05,Hyderabad,Organic/Direct,23-27
+85,2025-11-06,Indore,Influencer,18-22
+86,2025-11-06,Nagpur,Google Ads,18-22
+87,2025-11-07,Delhi,Influencer,18-22
+88,2025-11-08,Kolkata,Instagram Ads,23-27
+89,2025-11-08,Nagpur,Influencer,23-27
+90,2025-11-09,Lucknow,Organic/Direct,28-34
+91,2025-11-09,Bengaluru,Instagram Ads,23-27
+92,2025-11-09,Nagpur,Organic/Direct,28-34
+93,2025-11-09,Kolkata,Google Ads,23-27
+94,2025-11-10,Indore,Influencer,18-22
+95,2025-11-10,Pune,Influencer,23-27
+96,2025-11-10,Bengaluru,Referral,28-34
+97,2025-11-11,Lucknow,Organic/Direct,35+
+98,2025-11-11,Nagpur,Organic/Direct,23-27
+99,2025-11-12,Nagpur,Instagram Ads,23-27
+100,2025-11-12,Nagpur,Organic/Direct,35+
+101,2025-11-12,Nashik,Influencer,18-22
+102,2025-11-13,Jaipur,Google Ads,18-22
+103,2025-11-13,Delhi,Referral,18-22
+104,2025-11-13,Hyderabad,Organic/Direct,23-27
+105,2025-11-14,Mumbai,Organic/Direct,23-27
+106,2025-11-15,Bengaluru,Google Ads,23-27
+107,2025-11-15,Bengaluru,Organic/Direct,23-27
+108,2025-11-16,Nagpur,Organic/Direct,23-27
+109,2025-11-16,Indore,Instagram Ads,28-34
+110,2025-11-16,Delhi,Organic/Direct,23-27
+111,2025-11-17,Lucknow,Organic/Direct,18-22
+112,2025-11-17,Pune,Referral,18-22
+113,2025-11-18,Nagpur,Instagram Ads,18-22
+114,2025-11-18,Mumbai,Organic/Direct,28-34
+115,2025-11-19,Delhi,Organic/Direct,18-22
+116,2025-11-21,Kolkata,Organic/Direct,23-27
+117,2025-11-21,Lucknow,Instagram Ads,35+
+118,2025-11-21,Bengaluru,Organic/Direct,28-34
+119,2025-11-22,Nagpur,Instagram Ads,28-34
+120,2025-11-22,Ahmedabad,Organic/Direct,23-27
+121,2025-11-22,Bengaluru,Organic/Direct,23-27
+122,2025-11-22,Bengaluru,Organic/Direct,23-27
+123,2025-11-24,Nagpur,Referral,23-27
+124,2025-11-24,Hyderabad,Instagram Ads,18-22
+125,2025-11-26,Delhi,Influencer,18-22
+126,2025-11-27,Nagpur,Organic/Direct,23-27
+127,2025-11-27,Nashik,Organic/Direct,18-22
+128,2025-11-27,Nagpur,Organic/Direct,23-27
+129,2025-11-30,Kolkata,Organic/Direct,18-22
+130,2025-11-30,Hyderabad,Instagram Ads,28-34
+131,2025-11-30,Mumbai,Organic/Direct,18-22
+132,2025-12-02,Kolkata,Referral,23-27
+133,2025-12-02,Bengaluru,Organic/Direct,18-22
+134,2025-12-03,Nagpur,Organic/Direct,18-22
+135,2025-12-04,Bengaluru,Instagram Ads,23-27
+136,2025-12-05,Nagpur,Organic/Direct,35+
+137,2025-12-05,Nagpur,Instagram Ads,28-34
+138,2025-12-06,Nashik,Influencer,23-27
+139,2025-12-06,Hyderabad,Referral,23-27
+140,2025-12-06,Kolkata,Instagram Ads,23-27
+141,2025-12-07,Indore,Instagram Ads,23-27
+142,2025-12-07,Nagpur,Instagram Ads,23-27
+143,2025-12-08,Ahmedabad,Instagram Ads,28-34
+144,2025-12-09,Lucknow,Google Ads,28-34
+145,2025-12-10,Nagpur,Google Ads,18-22
+146,2025-12-10,Pune,Instagram Ads,35+
+147,2025-12-11,Delhi,Instagram Ads,28-34
+148,2025-12-12,Pune,Influencer,18-22
+149,2025-12-13,Nagpur,Instagram Ads,18-22
+150,2025-12-13,Lucknow,Organic/Direct,18-22
+151,2025-12-14,Ahmedabad,Influencer,28-34
+152,2025-12-14,Nashik,Influencer,23-27
+153,2025-12-14,Mumbai,Instagram Ads,18-22
+154,2025-12-15,Lucknow,Instagram Ads,23-27
+155,2025-12-15,Bengaluru,Organic/Direct,23-27
+156,2025-12-15,Nagpur,Instagram Ads,23-27
+157,2025-12-16,Nagpur,Instagram Ads,18-22
+158,2025-12-17,Nagpur,Google Ads,18-22
+159,2025-12-18,Nagpur,Instagram Ads,23-27
+160,2025-12-18,Nagpur,Organic/Direct,35+
+161,2025-12-18,Nagpur,Organic/Direct,23-27
+162,2025-12-18,Nagpur,Organic/Direct,35+
+163,2025-12-19,Ahmedabad,Google Ads,18-22
+164,2025-12-20,Nagpur,Instagram Ads,28-34
+165,2025-12-20,Bengaluru,Google Ads,23-27
+166,2025-12-20,Nagpur,Instagram Ads,23-27
+167,2025-12-20,Ahmedabad,Influencer,18-22
+168,2025-12-20,Jaipur,Influencer,35+
+169,2025-12-20,Nagpur,Referral,23-27
+170,2025-12-20,Kolkata,Instagram Ads,28-34
+171,2025-12-21,Hyderabad,Organic/Direct,18-22
+172,2025-12-21,Nagpur,Influencer,28-34
+173,2025-12-21,Nashik,Referral,23-27
+174,2025-12-21,Kolkata,Instagram Ads,28-34
+175,2025-12-21,Mumbai,Google Ads,18-22
+176,2025-12-22,Nagpur,Instagram Ads,18-22
+177,2025-12-22,Nagpur,Instagram Ads,28-34
+178,2025-12-23,Jaipur,Organic/Direct,28-34
+179,2025-12-23,Pune,Organic/Direct,23-27
+180,2025-12-23,Jaipur,Instagram Ads,23-27
+181,2025-12-24,Mumbai,Google Ads,18-22
+182,2025-12-25,Pune,Instagram Ads,28-34
+183,2025-12-25,Kolkata,Instagram Ads,23-27
+184,2025-12-25,Delhi,Instagram Ads,18-22
+185,2025-12-26,Nashik,Influencer,28-34
+186,2025-12-26,Ahmedabad,Organic/Direct,18-22
+187,2025-12-27,Kolkata,Instagram Ads,23-27
+188,2025-12-27,Mumbai,Organic/Direct,35+
+189,2025-12-27,Indore,Referral,18-22
+190,2025-12-27,Jaipur,Instagram Ads,28-34
+191,2025-12-27,Ahmedabad,Instagram Ads,23-27
+192,2025-12-27,Bengaluru,Influencer,18-22
+193,2025-12-28,Delhi,Instagram Ads,23-27
+194,2025-12-28,Delhi,Influencer,18-22
+195,2025-12-29,Hyderabad,Google Ads,28-34
+196,2025-12-29,Lucknow,Organic/Direct,23-27
+197,2025-12-29,Indore,Google Ads,23-27
+198,2025-12-30,Jaipur,Google Ads,23-27
+199,2025-12-30,Delhi,Organic/Direct,18-22
+200,2025-12-30,Pune,Organic/Direct,18-22
+201,2025-12-31,Delhi,Instagram Ads,28-34
+202,2025-12-31,Ahmedabad,Google Ads,23-27
+203,2025-12-31,Nagpur,Influencer,28-34
+204,2026-01-01,Ahmedabad,Organic/Direct,18-22
+205,2026-01-01,Indore,Organic/Direct,23-27
+206,2026-01-02,Pune,Google Ads,23-27
+207,2026-01-02,Nashik,Organic/Direct,18-22
+208,2026-01-02,Jaipur,Organic/Direct,18-22
+209,2026-01-02,Indore,Organic/Direct,23-27
+210,2026-01-02,Ahmedabad,Referral,28-34
+211,2026-01-03,Pune,Instagram Ads,18-22
+212,2026-01-03,Indore,Organic/Direct,23-27
+213,2026-01-03,Hyderabad,Influencer,23-27
+214,2026-01-04,Pune,Referral,18-22
+215,2026-01-04,Indore,Instagram Ads,18-22
+216,2026-01-05,Indore,Google Ads,23-27
+217,2026-01-05,Nagpur,Google Ads,23-27
+218,2026-01-05,Mumbai,Influencer,18-22
+219,2026-01-05,Pune,Influencer,18-22
+220,2026-01-05,Pune,Organic/Direct,18-22
+221,2026-01-06,Jaipur,Influencer,23-27
+222,2026-01-07,Nagpur,Organic/Direct,18-22
+223,2026-01-07,Bengaluru,Instagram Ads,35+
+224,2026-01-07,Nagpur,Influencer,23-27
+225,2026-01-09,Delhi,Influencer,28-34
+226,2026-01-09,Mumbai,Organic/Direct,23-27
+227,2026-01-10,Jaipur,Instagram Ads,18-22
+228,2026-01-11,Hyderabad,Instagram Ads,23-27
+229,2026-01-11,Hyderabad,Organic/Direct,23-27
+230,2026-01-11,Mumbai,Instagram Ads,18-22
+231,2026-01-12,Ahmedabad,Instagram Ads,18-22
+232,2026-01-12,Nashik,Google Ads,28-34
+233,2026-01-13,Nagpur,Influencer,23-27
+234,2026-01-13,Delhi,Organic/Direct,23-27
+235,2026-01-14,Nagpur,Organic/Direct,23-27
+236,2026-01-15,Mumbai,Instagram Ads,18-22
+237,2026-01-17,Lucknow,Influencer,23-27
+238,2026-01-17,Bengaluru,Referral,18-22
+239,2026-01-18,Nagpur,Organic/Direct,23-27
+240,2026-01-18,Delhi,Organic/Direct,23-27
+241,2026-01-18,Bengaluru,Instagram Ads,23-27
+242,2026-01-18,Nagpur,Instagram Ads,18-22
+243,2026-01-18,Mumbai,Google Ads,23-27
+244,2026-01-18,Kolkata,Influencer,23-27
+245,2026-01-19,Nagpur,Organic/Direct,18-22
+246,2026-01-20,Ahmedabad,Instagram Ads,28-34
+247,2026-01-20,Nagpur,Instagram Ads,23-27
+248,2026-01-20,Pune,Referral,23-27
+249,2026-01-21,Mumbai,Instagram Ads,18-22
+250,2026-01-21,Mumbai,Influencer,23-27
+251,2026-01-21,Ahmedabad,Instagram Ads,23-27
+252,2026-01-22,Lucknow,Organic/Direct,28-34
+253,2026-01-23,Delhi,Organic/Direct,23-27
+254,2026-01-23,Nagpur,Google Ads,18-22
+255,2026-01-25,Mumbai,Organic/Direct,23-27
+256,2026-01-27,Lucknow,Organic/Direct,18-22
+257,2026-01-27,Delhi,Organic/Direct,28-34
+258,2026-01-28,Mumbai,Organic/Direct,23-27
+259,2026-01-28,Nashik,Instagram Ads,18-22
+260,2026-01-29,Bengaluru,Influencer,18-22
+261,2026-01-29,Mumbai,Influencer,28-34
+262,2026-01-29,Indore,Influencer,23-27
+263,2026-01-30,Mumbai,Instagram Ads,18-22
+264,2026-01-30,Hyderabad,Instagram Ads,35+
+265,2026-01-30,Delhi,Organic/Direct,28-34
+266,2026-01-31,Nagpur,Organic/Direct,35+
+267,2026-01-31,Hyderabad,Influencer,23-27
+268,2026-01-31,Nagpur,Google Ads,18-22
+269,2026-01-31,Lucknow,Influencer,18-22
+270,2026-01-31,Delhi,Influencer,18-22
+271,2026-02-01,Delhi,Instagram Ads,18-22
+272,2026-02-01,Mumbai,Organic/Direct,23-27
+273,2026-02-02,Pune,Instagram Ads,23-27
+274,2026-02-03,Indore,Organic/Direct,35+
+275,2026-02-04,Hyderabad,Influencer,23-27
+276,2026-02-04,Hyderabad,Organic/Direct,23-27
+277,2026-02-05,Nashik,Organic/Direct,23-27
+278,2026-02-07,Bengaluru,Instagram Ads,23-27
+279,2026-02-07,Pune,Instagram Ads,23-27
+280,2026-02-07,Mumbai,Instagram Ads,18-22
+281,2026-02-07,Nagpur,Organic/Direct,28-34
+282,2026-02-07,Nashik,Referral,23-27
+283,2026-02-09,Nagpur,Influencer,18-22
+284,2026-02-09,Jaipur,Google Ads,28-34
+285,2026-02-11,Mumbai,Google Ads,28-34
+286,2026-02-11,Nagpur,Instagram Ads,28-34
+287,2026-02-11,Mumbai,Google Ads,18-22
+288,2026-02-12,Pune,Instagram Ads,28-34
+289,2026-02-12,Ahmedabad,Instagram Ads,28-34
+290,2026-02-13,Kolkata,Instagram Ads,28-34
+291,2026-02-14,Pune,Influencer,28-34
+292,2026-02-14,Mumbai,Organic/Direct,35+
+293,2026-02-14,Lucknow,Organic/Direct,23-27
+294,2026-02-16,Ahmedabad,Instagram Ads,18-22
+295,2026-02-17,Indore,Organic/Direct,23-27
+296,2026-02-17,Kolkata,Google Ads,18-22
+297,2026-02-19,Mumbai,Organic/Direct,28-34
+298,2026-02-19,Mumbai,Google Ads,18-22
+299,2026-02-21,Mumbai,Influencer,23-27
+300,2026-02-23,Nagpur,Instagram Ads,23-27
+301,2026-02-24,Nagpur,Referral,28-34
+302,2026-02-24,Nagpur,Organic/Direct,28-34
+303,2026-02-25,Delhi,Influencer,23-27
+304,2026-02-25,Nagpur,Instagram Ads,23-27
+305,2026-02-25,Nagpur,Organic/Direct,23-27
+306,2026-02-25,Jaipur,Instagram Ads,35+
+307,2026-02-26,Pune,Referral,23-27
+308,2026-02-26,Indore,Influencer,28-34
+309,2026-02-26,Hyderabad,Instagram Ads,23-27
+310,2026-02-26,Hyderabad,Google Ads,18-22
+311,2026-02-27,Nagpur,Organic/Direct,28-34
+312,2026-02-27,Indore,Instagram Ads,23-27
+313,2026-02-28,Delhi,Referral,23-27
+314,2026-02-28,Nagpur,Instagram Ads,23-27
+315,2026-03-01,Lucknow,Organic/Direct,23-27
+316,2026-03-02,Nagpur,Influencer,23-27
+317,2026-03-02,Mumbai,Influencer,28-34
+318,2026-03-03,Bengaluru,Instagram Ads,18-22
+319,2026-03-03,Nagpur,Organic/Direct,35+
+320,2026-03-04,Nagpur,Instagram Ads,23-27
+321,2026-03-05,Pune,Organic/Direct,23-27
+322,2026-03-05,Nagpur,Organic/Direct,23-27
+323,2026-03-05,Hyderabad,Instagram Ads,23-27
+324,2026-03-07,Bengaluru,Instagram Ads,35+
+325,2026-03-07,Ahmedabad,Influencer,35+
+326,2026-03-08,Nagpur,Instagram Ads,18-22
+327,2026-03-08,Nashik,Influencer,18-22
+328,2026-03-08,Delhi,Referral,18-22
+329,2026-03-09,Bengaluru,Google Ads,23-27
+330,2026-03-09,Mumbai,Instagram Ads,28-34
+331,2026-03-10,Ahmedabad,Influencer,35+
+332,2026-03-10,Delhi,Organic/Direct,23-27
+333,2026-03-13,Delhi,Referral,23-27
+334,2026-03-13,Kolkata,Influencer,18-22
+335,2026-03-13,Ahmedabad,Instagram Ads,28-34
+336,2026-03-14,Nagpur,Influencer,35+
+337,2026-03-14,Nagpur,Organic/Direct,18-22
+338,2026-03-15,Mumbai,Instagram Ads,18-22
+339,2026-03-15,Mumbai,Organic/Direct,28-34
+340,2026-03-16,Delhi,Organic/Direct,18-22
+341,2026-03-16,Nashik,Instagram Ads,23-27
+342,2026-03-17,Mumbai,Google Ads,23-27
+343,2026-03-17,Kolkata,Instagram Ads,18-22
+344,2026-03-17,Mumbai,Organic/Direct,18-22
+345,2026-03-18,Mumbai,Referral,18-22
+346,2026-03-18,Nashik,Influencer,18-22
+347,2026-03-18,Delhi,Instagram Ads,35+
+348,2026-03-19,Nagpur,Organic/Direct,28-34
+349,2026-03-20,Mumbai,Organic/Direct,18-22
+350,2026-03-23,Mumbai,Organic/Direct,18-22
+351,2026-03-23,Indore,Instagram Ads,23-27
+352,2026-03-26,Nashik,Organic/Direct,23-27
+353,2026-03-26,Indore,Instagram Ads,35+
+354,2026-03-28,Nashik,Organic/Direct,28-34
+355,2026-03-28,Nashik,Influencer,23-27
+356,2026-03-29,Nagpur,Instagram Ads,18-22
+357,2026-03-29,Kolkata,Google Ads,18-22
+358,2026-03-29,Nagpur,Organic/Direct,23-27
+359,2026-03-30,Nagpur,Instagram Ads,35+
+360,2026-03-30,Mumbai,Instagram Ads,23-27
+361,2026-03-30,Mumbai,Instagram Ads,23-27
+362,2026-03-31,Mumbai,Influencer,18-22
+363,2026-03-31,Delhi,Influencer,18-22
+364,2026-03-31,Mumbai,Google Ads,23-27
+365,2026-04-02,Ahmedabad,Influencer,18-22
+366,2026-04-02,Jaipur,Organic/Direct,18-22
+367,2026-04-03,Mumbai,Instagram Ads,23-27
+368,2026-04-03,Nagpur,Referral,18-22
+369,2026-04-04,Nagpur,Instagram Ads,23-27
+370,2026-04-04,Lucknow,Influencer,28-34
+371,2026-04-04,Delhi,Influencer,28-34
+372,2026-04-06,Mumbai,Google Ads,28-34
+373,2026-04-08,Delhi,Organic/Direct,18-22
+374,2026-04-08,Nagpur,Instagram Ads,23-27
+375,2026-04-08,Nagpur,Organic/Direct,18-22
+376,2026-04-10,Nagpur,Google Ads,18-22
+377,2026-04-11,Nagpur,Influencer,23-27
+378,2026-04-11,Nagpur,Instagram Ads,35+
+379,2026-04-11,Ahmedabad,Instagram Ads,18-22
+380,2026-04-11,Nashik,Influencer,18-22
+381,2026-04-11,Pune,Influencer,28-34
+382,2026-04-12,Hyderabad,Organic/Direct,28-34
+383,2026-04-12,Nagpur,Influencer,18-22
+384,2026-04-13,Pune,Google Ads,18-22
+385,2026-04-13,Nagpur,Influencer,35+
+386,2026-04-13,Jaipur,Influencer,23-27
+387,2026-04-13,Ahmedabad,Organic/Direct,23-27
+388,2026-04-16,Hyderabad,Instagram Ads,23-27
+389,2026-04-16,Kolkata,Referral,18-22
+390,2026-04-16,Delhi,Instagram Ads,28-34
+391,2026-04-16,Jaipur,Influencer,35+
+392,2026-04-17,Delhi,Referral,23-27
+393,2026-04-19,Delhi,Instagram Ads,35+
+394,2026-04-21,Mumbai,Organic/Direct,18-22
+395,2026-04-21,Indore,Referral,23-27
+396,2026-04-22,Lucknow,Influencer,23-27
+397,2026-04-22,Nagpur,Instagram Ads,28-34
+398,2026-04-23,Delhi,Instagram Ads,23-27
+399,2026-04-23,Kolkata,Instagram Ads,18-22
+400,2026-04-24,Nagpur,Organic/Direct,35+
+401,2026-04-24,Pune,Instagram Ads,23-27
+402,2026-04-24,Delhi,Instagram Ads,28-34
+403,2026-04-24,Nagpur,Influencer,23-27
+404,2026-04-25,Bengaluru,Referral,35+
+405,2026-04-28,Indore,Instagram Ads,18-22
+406,2026-04-28,Jaipur,Organic/Direct,23-27
+407,2026-04-28,Hyderabad,Referral,18-22
+408,2026-04-29,Pune,Organic/Direct,18-22
+409,2026-04-29,Kolkata,Instagram Ads,18-22
+410,2026-04-30,Nagpur,Referral,18-22
+411,2026-04-30,Bengaluru,Influencer,23-27
+412,2026-05-02,Jaipur,Instagram Ads,18-22
+413,2026-05-02,Nashik,Google Ads,23-27
+414,2026-05-03,Pune,Influencer,18-22
+415,2026-05-03,Indore,Instagram Ads,23-27
+416,2026-05-03,Hyderabad,Influencer,18-22
+417,2026-05-04,Delhi,Instagram Ads,23-27
+418,2026-05-04,Delhi,Referral,35+
+419,2026-05-06,Jaipur,Organic/Direct,23-27
+420,2026-05-06,Ahmedabad,Google Ads,23-27
+421,2026-05-07,Lucknow,Google Ads,23-27
+422,2026-05-07,Pune,Influencer,23-27
+423,2026-05-08,Indore,Instagram Ads,28-34
+424,2026-05-08,Lucknow,Instagram Ads,23-27
+425,2026-05-08,Mumbai,Instagram Ads,18-22
+426,2026-05-08,Lucknow,Organic/Direct,23-27
+427,2026-05-09,Delhi,Google Ads,18-22
+428,2026-05-09,Delhi,Organic/Direct,18-22
+429,2026-05-10,Hyderabad,Instagram Ads,23-27
+430,2026-05-10,Hyderabad,Instagram Ads,35+
+431,2026-05-10,Kolkata,Organic/Direct,18-22
+432,2026-05-10,Nagpur,Instagram Ads,18-22
+433,2026-05-10,Nagpur,Referral,18-22
+434,2026-05-11,Mumbai,Google Ads,23-27
+435,2026-05-11,Delhi,Instagram Ads,18-22
+436,2026-05-12,Lucknow,Google Ads,18-22
+437,2026-05-12,Nagpur,Google Ads,23-27
+438,2026-05-12,Delhi,Instagram Ads,18-22
+439,2026-05-13,Mumbai,Instagram Ads,18-22
+440,2026-05-14,Mumbai,Influencer,23-27
+441,2026-05-15,Indore,Instagram Ads,28-34
+442,2026-05-16,Jaipur,Instagram Ads,18-22
+443,2026-05-16,Bengaluru,Instagram Ads,35+
+444,2026-05-17,Pune,Referral,28-34
+445,2026-05-17,Mumbai,Instagram Ads,23-27
+446,2026-05-18,Nagpur,Organic/Direct,18-22
+447,2026-05-18,Pune,Organic/Direct,23-27
+448,2026-05-18,Bengaluru,Instagram Ads,28-34
+449,2026-05-21,Nagpur,Influencer,23-27
+450,2026-05-23,Ahmedabad,Google Ads,18-22
+451,2026-05-24,Delhi,Organic/Direct,18-22
+452,2026-05-24,Nagpur,Organic/Direct,18-22
+453,2026-05-25,Ahmedabad,Influencer,18-22
+454,2026-05-25,Indore,Google Ads,28-34
+455,2026-05-26,Delhi,Influencer,18-22
+456,2026-05-26,Indore,Instagram Ads,18-22
+457,2026-05-27,Kolkata,Influencer,18-22
+458,2026-05-27,Ahmedabad,Influencer,23-27
+459,2026-05-27,Indore,Organic/Direct,28-34
+460,2026-05-27,Pune,Organic/Direct,23-27
+461,2026-05-28,Pune,Instagram Ads,23-27
+462,2026-05-28,Jaipur,Influencer,18-22
+463,2026-05-29,Mumbai,Organic/Direct,18-22
+464,2026-05-30,Indore,Influencer,28-34
+465,2026-05-30,Hyderabad,Instagram Ads,18-22
+466,2026-05-31,Nagpur,Instagram Ads,18-22
+467,2026-05-31,Delhi,Influencer,18-22
+468,2026-05-31,Jaipur,Referral,18-22
+469,2026-05-31,Mumbai,Instagram Ads,28-34
+470,2026-06-02,Delhi,Influencer,23-27
+471,2026-06-03,Kolkata,Influencer,28-34
+472,2026-06-03,Delhi,Instagram Ads,28-34
+473,2026-06-03,Nagpur,Influencer,23-27
+474,2026-06-04,Nagpur,Organic/Direct,35+
+475,2026-06-04,Indore,Instagram Ads,28-34
+476,2026-06-05,Mumbai,Organic/Direct,28-34
+477,2026-06-07,Bengaluru,Influencer,23-27
+478,2026-06-07,Delhi,Google Ads,35+
+479,2026-06-07,Hyderabad,Instagram Ads,23-27
+480,2026-06-09,Bengaluru,Influencer,18-22
+481,2026-06-10,Nagpur,Influencer,18-22
+482,2026-06-10,Hyderabad,Google Ads,18-22
+483,2026-06-11,Mumbai,Influencer,18-22
+484,2026-06-12,Kolkata,Organic/Direct,18-22
+485,2026-06-12,Nagpur,Organic/Direct,18-22
+486,2026-06-13,Pune,Organic/Direct,18-22
+487,2026-06-13,Kolkata,Google Ads,18-22
+488,2026-06-13,Pune,Organic/Direct,23-27
+489,2026-06-14,Nashik,Influencer,23-27
+490,2026-06-15,Nagpur,Google Ads,18-22
+491,2026-06-16,Ahmedabad,Referral,18-22
+492,2026-06-16,Kolkata,Influencer,18-22
+493,2026-06-16,Mumbai,Instagram Ads,23-27
+494,2026-06-16,Pune,Instagram Ads,23-27
+495,2026-06-17,Nagpur,Instagram Ads,18-22
+496,2026-06-18,Pune,Influencer,18-22
+497,2026-06-18,Nashik,Influencer,23-27
+498,2026-06-18,Kolkata,Organic/Direct,28-34
+499,2026-06-18,Delhi,Instagram Ads,23-27
+500,2026-06-19,Ahmedabad,Influencer,23-27
+501,2026-06-20,Lucknow,Instagram Ads,28-34
+502,2026-06-20,Nagpur,Google Ads,28-34
+503,2026-06-20,Hyderabad,Referral,23-27
+504,2026-06-21,Nagpur,Organic/Direct,23-27
+505,2026-06-21,Kolkata,Influencer,23-27
+506,2026-06-21,Hyderabad,Google Ads,18-22
+507,2026-06-22,Indore,Influencer,18-22
+508,2026-06-23,Kolkata,Influencer,23-27
+509,2026-06-23,Indore,Google Ads,23-27
+510,2026-06-23,Jaipur,Google Ads,35+
+511,2026-06-24,Mumbai,Instagram Ads,18-22
+512,2026-06-24,Pune,Instagram Ads,23-27
+513,2026-06-24,Nagpur,Google Ads,18-22
+514,2026-06-24,Hyderabad,Referral,18-22
+515,2026-06-24,Jaipur,Instagram Ads,23-27
+516,2026-06-24,Kolkata,Influencer,18-22
+517,2026-06-25,Lucknow,Organic/Direct,23-27
+518,2026-06-26,Lucknow,Organic/Direct,23-27
+519,2026-06-26,Pune,Influencer,23-27
+520,2026-06-26,Delhi,Instagram Ads,23-27
+521,2026-06-27,Ahmedabad,Instagram Ads,23-27
+522,2026-06-27,Lucknow,Influencer,35+
+523,2026-06-27,Bengaluru,Influencer,23-27
+524,2026-06-27,Kolkata,Influencer,35+
+525,2026-06-28,Delhi,Instagram Ads,28-34
+526,2026-06-28,Nagpur,Organic/Direct,28-34
+527,2026-06-28,Jaipur,Instagram Ads,23-27
+528,2026-06-28,Pune,Referral,23-27
+529,2026-06-28,Delhi,Instagram Ads,18-22
+530,2026-06-29,Nagpur,Organic/Direct,23-27
+531,2026-06-29,Pune,Referral,18-22
+532,2026-06-30,Delhi,Organic/Direct,18-22
+533,2026-06-30,Hyderabad,Organic/Direct,23-27
+534,2026-06-30,Bengaluru,Google Ads,23-27
+535,2026-07-01,Nagpur,Instagram Ads,23-27
+536,2026-07-01,Delhi,Influencer,18-22
+537,2026-07-02,Ahmedabad,Instagram Ads,18-22
+538,2026-07-02,Jaipur,Google Ads,18-22
+539,2026-07-02,Jaipur,Organic/Direct,18-22
+540,2026-07-02,Pune,Instagram Ads,28-34
+541,2026-07-03,Ahmedabad,Influencer,23-27
+542,2026-07-04,Lucknow,Influencer,18-22
+543,2026-07-05,Ahmedabad,Instagram Ads,18-22
+544,2026-07-06,Ahmedabad,Influencer,28-34
+545,2026-07-06,Nagpur,Instagram Ads,18-22
+546,2026-07-07,Kolkata,Influencer,23-27
+547,2026-07-08,Pune,Referral,23-27
+548,2026-07-08,Nagpur,Influencer,18-22
+549,2026-07-08,Lucknow,Google Ads,18-22
+550,2026-07-08,Nagpur,Instagram Ads,18-22
+551,2026-07-09,Indore,Influencer,23-27
+552,2026-07-09,Nagpur,Influencer,23-27
+553,2026-07-10,Mumbai,Organic/Direct,23-27
+554,2026-07-10,Kolkata,Instagram Ads,18-22
+555,2026-07-11,Bengaluru,Influencer,23-27
+556,2026-07-11,Bengaluru,Influencer,28-34
+557,2026-07-11,Ahmedabad,Google Ads,23-27
+558,2026-07-11,Indore,Influencer,23-27
+559,2026-07-12,Bengaluru,Google Ads,28-34
+560,2026-07-12,Mumbai,Instagram Ads,23-27
+561,2026-07-12,Jaipur,Instagram Ads,23-27
+562,2026-07-13,Pune,Organic/Direct,35+
+563,2026-07-14,Nagpur,Referral,18-22
+564,2026-07-15,Mumbai,Organic/Direct,23-27
+565,2026-07-15,Nagpur,Influencer,18-22
+566,2026-07-16,Pune,Influencer,18-22
+567,2026-07-17,Nagpur,Instagram Ads,23-27
+568,2026-07-17,Mumbai,Influencer,28-34
+569,2026-07-17,Indore,Influencer,18-22
+570,2026-07-19,Pune,Influencer,35+
+571,2026-07-20,Indore,Instagram Ads,23-27
+572,2026-07-20,Nagpur,Influencer,18-22
+573,2026-07-20,Pune,Referral,28-34
+574,2026-07-20,Pune,Organic/Direct,23-27
+575,2026-07-20,Nagpur,Referral,18-22
+576,2026-07-21,Mumbai,Google Ads,18-22
+577,2026-07-21,Pune,Influencer,18-22
+578,2026-07-21,Lucknow,Instagram Ads,23-27
+579,2026-07-22,Ahmedabad,Instagram Ads,18-22
+580,2026-07-23,Hyderabad,Referral,28-34
+581,2026-07-23,Hyderabad,Organic/Direct,23-27
+582,2026-07-23,Jaipur,Instagram Ads,18-22
+583,2026-07-24,Nashik,Influencer,18-22
+584,2026-07-24,Mumbai,Organic/Direct,23-27
+585,2026-07-24,Indore,Influencer,23-27
+586,2026-07-25,Nagpur,Google Ads,23-27
+587,2026-07-26,Pune,Referral,18-22
+588,2026-07-26,Ahmedabad,Organic/Direct,18-22
+589,2026-07-26,Indore,Instagram Ads,18-22
+590,2026-07-27,Nagpur,Instagram Ads,18-22
+591,2026-07-27,Delhi,Referral,23-27
+592,2026-07-28,Nashik,Google Ads,18-22
+593,2026-07-28,Nashik,Referral,18-22
+594,2026-07-29,Delhi,Instagram Ads,23-27
+595,2026-07-29,Bengaluru,Organic/Direct,18-22
+596,2026-07-31,Kolkata,Instagram Ads,18-22
+597,2026-08-01,Nagpur,Influencer,28-34
+598,2026-08-03,Nashik,Instagram Ads,23-27
+599,2026-08-06,Jaipur,Referral,23-27
+600,2026-08-06,Indore,Organic/Direct,28-34
+601,2026-08-07,Hyderabad,Influencer,35+
+602,2026-08-08,Hyderabad,Instagram Ads,28-34
+603,2026-08-08,Mumbai,Influencer,23-27
+604,2026-08-08,Delhi,Organic/Direct,23-27
+605,2026-08-09,Pune,Influencer,18-22
+606,2026-08-10,Nagpur,Google Ads,23-27
+607,2026-08-10,Indore,Instagram Ads,23-27
+608,2026-08-10,Nagpur,Influencer,28-34
+609,2026-08-10,Nagpur,Instagram Ads,18-22
+610,2026-08-11,Kolkata,Instagram Ads,18-22
+611,2026-08-11,Kolkata,Organic/Direct,23-27
+612,2026-08-11,Kolkata,Organic/Direct,35+
+613,2026-08-11,Delhi,Influencer,35+
+614,2026-08-11,Nagpur,Organic/Direct,23-27
+615,2026-08-12,Jaipur,Influencer,23-27
+616,2026-08-13,Ahmedabad,Instagram Ads,18-22
+617,2026-08-14,Delhi,Influencer,28-34
+618,2026-08-15,Pune,Referral,28-34
+619,2026-08-15,Nagpur,Google Ads,18-22
+620,2026-08-15,Bengaluru,Organic/Direct,28-34
+621,2026-08-16,Delhi,Influencer,18-22
+622,2026-08-16,Indore,Influencer,28-34
+623,2026-08-17,Hyderabad,Influencer,18-22
+624,2026-08-17,Kolkata,Influencer,23-27
+625,2026-08-17,Indore,Organic/Direct,23-27
+626,2026-08-18,Nagpur,Influencer,18-22
+627,2026-08-19,Bengaluru,Organic/Direct,18-22
+628,2026-08-20,Ahmedabad,Influencer,23-27
+629,2026-08-21,Nagpur,Google Ads,23-27
+630,2026-08-22,Mumbai,Organic/Direct,28-34
+631,2026-08-22,Hyderabad,Instagram Ads,28-34
+632,2026-08-23,Bengaluru,Instagram Ads,18-22
+633,2026-08-23,Bengaluru,Instagram Ads,28-34
+634,2026-08-24,Bengaluru,Influencer,23-27
+635,2026-08-24,Nashik,Instagram Ads,18-22
+636,2026-08-25,Kolkata,Instagram Ads,23-27
+637,2026-08-25,Indore,Influencer,23-27
+638,2026-08-25,Nagpur,Influencer,23-27
+639,2026-08-26,Nashik,Organic/Direct,18-22
+640,2026-08-26,Delhi,Google Ads,23-27
+641,2026-08-28,Bengaluru,Instagram Ads,28-34
+642,2026-08-29,Delhi,Influencer,28-34
+643,2026-08-30,Nagpur,Instagram Ads,35+
+644,2026-08-30,Nagpur,Google Ads,23-27
+645,2026-08-30,Indore,Influencer,23-27
+646,2026-08-30,Pune,Influencer,28-34
+647,2026-08-30,Pune,Organic/Direct,18-22
+648,2026-08-31,Kolkata,Instagram Ads,23-27
